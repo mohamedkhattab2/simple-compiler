@@ -1,2 +1,2 @@
 # simple-compiler
-simple compiler using c
+simple compiler using c++ two phases (lexial , parsing)
